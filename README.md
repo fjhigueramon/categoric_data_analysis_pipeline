@@ -1,0 +1,1 @@
+# categoric_data_analysis_pipeline
